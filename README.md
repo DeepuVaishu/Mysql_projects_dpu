@@ -114,7 +114,7 @@ The developed Library Management System effectively addresses the need for organ
 ## Repository Contents
 1. Library Management System - project.sql: Directory containing SQL scripts for creating the database, tables, and inserting initial data and various queries.
 
-2. library project.docx: Word file containing screenshots of the results for each query.
+2. library project.pdf: PDF file containing screenshots of the results for each query.
 
 3. README.md: This file, providing an overview of the project, installation instructions, usage examples, and more.
 
